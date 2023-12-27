@@ -1,0 +1,22 @@
+.TodoListContainer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .TodoList {
+    background-color: #e67e22;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 60%;
+  }
+  
+  .Aside {
+    background-color: #800080; 
+    padding: 1rem;
+    border-radius: 8px;
+    width: 35%;
+    color: white;
+  }
+  
